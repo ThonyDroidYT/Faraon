@@ -4,7 +4,7 @@ sudo wget https://raw.githubusercontent.com/ThonyDroidYT/Faraon/main/Inst/InstBT
 
 # Proxy-Privado
 
-sudo wget https://raw.githubusercontent.com/ThonyDroidYT/Faraon/main/Inst/InstBT/Proxy-Privado.sh; +x Proxy-Privado.sh; ./Proxy-Privado.sh 
+sudo wget https://raw.githubusercontent.com/ThonyDroidYT/Faraon/main/Inst/InstBT/Proxy-Privado.sh; chmod 777 Proxy-Privado.sh; ./Proxy-Privado.sh 
 
 # bot
 
