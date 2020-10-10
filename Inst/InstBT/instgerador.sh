@@ -49,7 +49,6 @@ MIP2=$(wget -qO- ipv4.icanhazip.com)
 echo "$IP" > /usr/bin/vendor_code
 }
 meu_ip
-function_verify
 echo -e "$BARRA"
 echo -e "\033[1;33mDescargando archivos... "
 echo -e "$BARRA"
