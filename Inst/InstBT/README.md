@@ -8,7 +8,7 @@ sudo wget https://raw.githubusercontent.com/ThonyDroidYT/Faraon/main/Inst/InstBT
 
 # bot
 
-rm bot.sh; wget https://raw.githubusercontent.com/rudi9999/Script/master/bot.sh; chmod +x bot.sh; ./bot.sh
+rm bot.sh; wget https://raw.githubusercontent.com/ThonyDroidYT/Faraon/main/BT/bot.sh; chmod +x bot.sh; ./bot.sh
 
 
 # InstGerar
