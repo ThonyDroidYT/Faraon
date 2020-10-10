@@ -89,7 +89,7 @@ sed -i -e 's/\r$//' /usr/bin/gerar.sh
 echo -e "$BARRA"
 echo "/usr/bin/gerar.sh" > /usr/bin/gerar && chmod +x /usr/bin/gerar
 echo "/usr/bin/gerar.sh" > /usr/bin/genplus && chmod +x /usr/bin/genplus
-echo -e "\033[1;33m Perfecto, utilize el comando \033[1;31mgerar.sh o gerar o genplus\033[1;33mpara administrar sus keys y
+echo -e "\033[1;33m Perfecto, utilize el comando \033[1;31mgerar.sh o gerar o genplus\033[1;33m para administrar sus keys y
  actualizar la base del servidor"
 echo -e "$BARRA"
 } || {
